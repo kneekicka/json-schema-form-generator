@@ -1,0 +1,30 @@
+{
+  "name": "json-form-generator",
+  "description": "It's a simple app to generate bootstrap form using Angular",
+  "main": "index.html",
+  "authors": [
+    "Nikita Simogin"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "json",
+    "schema",
+    "form",
+    "generator",
+    "bootstrap",
+    "validation"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "bootstrap": "^3.3.6"
+  }
+}
